@@ -6,11 +6,11 @@ from database.userchats import add_chat
 from vars import var
 
 START_MSG = """
-Hi, I am **ANONYMOUS SENDER BOT.**\n
-Just Forward me Some messages or
+Hi, I am **Anonymous Sender RoBot.**\n
+Just Forward/Send me Some messages or
 media and I will **Anonymize** that !!
-You Can too Clone me :-
-https://github.com/ProThinkerGang/Anonymous-Bot
+You Can also Clone me **(Only Forks Allowed, No Kangs, If Kangs found, be ready for FBan.)** :-
+https://github.com/madboy482/AnonymousSender
 """
 
 if var.START_MESSAGE is not None:
